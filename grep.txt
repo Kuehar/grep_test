@@ -1,2 +1,2 @@
-this is grep test file.
+that is grep test file.
 
